@@ -1,0 +1,153 @@
+/** Selected Tag{
+    property: value;
+}**/
+body{
+    font-family: calibri;
+    
+}
+/* for the logo*/
+#logo{
+    width: 80px;
+    height: 80px;
+    display: flex;
+    padding-left: 170px;
+    }
+    
+    /* the heading & it contains the dashed lines and others*/
+h1{
+    font-weight: bolder;
+    color: #ffaaf4;
+    text-align: center;
+    font-size: 30pt;
+    border: #ffffff4e 3px dashed;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    }
+
+
+.heading{
+    background: #42005b;
+    padding-bottom: 0.1px;
+    padding-top: 2px;
+    
+    }
+    
+
+#about{
+    font-weight: bold;
+    font-size: 16pt;
+    text-align: center;
+}
+
+.noone{
+    color: purple;
+}
+     
+#offers{
+    font-size: 14pt;
+    text-indent: 10px;
+}
+
+#date{
+    font-size: 12pt;
+    font-weight: bolder;
+    color:#42005b;}
+    
+#title{
+    font-size: 23pt;
+    text-align: center;
+}
+#brief{
+    font-size: 14pt;
+    text-align: center;
+}
+
+#pic{
+padding-left: 10px;
+}
+
+#audio{
+    padding-left: 15px;
+}
+
+.download {
+    display: inline-block;
+    background-color: purple; /* Green background */
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    text-decoration: none;    
+    font-weight: bolder;
+    border-radius: 10px;
+    text-align: center;
+    transition: background-color 0.3s ease;
+    border: #ffaaf4, 1px solid;
+    
+    }
+
+.download:hover {
+    background-color: #42005b; /* Darker green */
+}
+
+.app{
+   display: block;
+   background-color: palevioletred;
+   color: white;
+   font-size: 14pt;
+   font-weight: bolder;
+   padding: 10px 15px;
+   text-decoration: none;
+   text-align: center;
+   border-radius: 10px;
+}
+.seealso{
+    display: container;
+    background-color: #f4aaff67;
+    text-decoration-line: none; 
+    border: purple 3px solid;
+    border-radius: 10px;   
+}
+
+ul li{ color: purple;
+       text-decoration: purple;
+} 
+
+
+#head{
+    font-size: 16pt;
+    font-weight: bold;
+    margin-left: 5px;
+    color: darkmagenta;
+}
+
+
+#try{
+    text-decoration: underline purple ;
+    color: black;
+    
+    
+}
+
+
+.lyrics{
+    display: container;
+    text-decoration-line: none; 
+    border: palevioletred 3px solid;
+    border-radius: 3px;   
+    border-radius: 10px;
+}
+#lyrictext{
+    margin-left: 10px;
+}
+
+footer{
+background-color: purple;
+color: white;
+padding-bottom: 10px;
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 10px;
+text-align: center;
+
+    
+}
